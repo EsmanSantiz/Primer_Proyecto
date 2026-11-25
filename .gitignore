@@ -1,3 +1,5 @@
+
+# Carpetas temporales y generadas por Unity
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -5,15 +7,19 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
 
-# Visual Studio / VS Code
+# Visual Studio y Visual Studio Code
 .vs/
 .vscode/
-ExportedObj/
 .consulo/
+ExportedObj/
+
+# Archivos de proyectos generados por Unity
 *.csproj
 *.unityproj
 *.sln
+*.slnx
 *.suo
 *.tmp
 *.user
@@ -26,12 +32,13 @@ ExportedObj/
 *.opendb
 *.VC.db
 
-# Unity3D generated meta files
+# Archivos generados relacionados con depuración
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
 
-# Crashlytics / OS
+# Sistema operativo
 sysinfo.txt
 .DS_Store
 Thumbs.db
+ 
